@@ -28,6 +28,8 @@ You can try out some examples at https://github.com/taspinar/twitterscraper/tree
 For futher information refer the example folder.
 
 Or if your motive is not fulfilled with this , you can Try Twitter Api but i suggest for Tweepy if you get the Access Tokens.
+Using the Twitter_scrapper.py file , enter the list of tags you want and it will give output as .CSV file.
+![](https://drive.google.com/uc?export=view&id=1kq2hpqMWu7aLjQzcK6Jybji5IZTvuMhs)
 
 # Twitter API 
 1. Create your app
