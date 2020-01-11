@@ -1,5 +1,6 @@
 # Twitter_scrapper
 Tweet Scrapper using the Twitterscraper package in python.
+![](https://www.growthplug.com/wp-content/uploads/2018/07/twitter_logo_0.png)
 
 One can scrap Twitter for data using various methods like 
 - python-twitter (official API)
@@ -21,6 +22,5 @@ api = twitter.Api(consumer_key=[consumer key],
                   access_token_key=[access token],
                   access_token_secret=[access token secret])
 ```                  
-Note: Make sure to enclose your keys in quotes (ie, api = twitter.Api(consumer_key=‘1234567’, …) and so on) or you will receive a NameError.
-![](https://www.growthplug.com/wp-content/uploads/2018/07/twitter_logo_0.png)
+
 
